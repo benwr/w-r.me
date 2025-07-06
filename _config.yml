@@ -1,0 +1,6 @@
+url: https://w-r.me
+
+collections:
+  redirects:
+    output: true
+    permalink: /:slug
